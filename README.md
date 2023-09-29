@@ -29,7 +29,7 @@ pip install python-nmap
 cd PhoneSploit/
 ```
 ```
-python3 phonesploit.py
+python phonesploit.py
 ```
 #### On Windows :
 
