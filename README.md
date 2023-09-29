@@ -43,9 +43,9 @@ pip install python-nmap
 ```
 ```
 cd PhoneSploit/
+```
 
-
-### Screenshots
+# Screenshots
 
 ![Screenshot Page 1](docs/Screenshot-1.png)
 ![Screenshot Page 2](docs/Screenshot-2.png)
